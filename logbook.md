@@ -7,7 +7,7 @@
 | **Type**           | Text-based Adventure        |
 | **Language**       | Python 3.x                  |
 | **Start Date**     | June 26, 2024              |
-| **Completion Date**| June 30, 2024              |
+| **Completion Date**| August 29, 2024              |
 
 ## Development Timeline
 
@@ -15,7 +15,8 @@
 |---------------|---------------|-------------------------------|-----------------------|
 | **June 26, 2024** | Initial development phase with core game setup | - Initial class structure design<br>- Movement system implementation | - Created modular class structure<br>- Implemented robust command parser |
 | **June 28, 2024** | Core game mechanics implementation | - Inventory management system<br>- Item interaction logic | - Developed flexible inventory system<br>- Created item usage mechanics |
-| **June 30, 2024** | Final testing and documentation | - Game balance issues<br>- Edge case handling | - Implemented comprehensive testing<br>- Added input validation |
+| **June 30, 2024** | Testing and balancing | - Game balance issues<br>- Edge case handling | - Implemented comprehensive testing<br>- Added input validation |
+| **August 29, 2024** | Documentation and flowcharts | - Visualizing game flow<br>- Win condition clarity | - Created comprehensive flowcharts<br>- Updated documentation with Energy Crystal requirement |
 
 ## Detailed Development Notes
 
